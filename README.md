@@ -1,10 +1,11 @@
 ### Hi there, I'm Diana!
 
 ### Currently...
-- A software engineering intern at Vulcan, Inc. on the Allen Coral Atlas team
+- Software Developer at Truveta
 - Cycling, running, or taking photographs in my free time
 
 ### Previously...
+- Software engineering intern at Vulcan on the Allen Coral Atlas team
 - Parkinson's disease and cardiovascular disease researcher at the National Institutes of Health
 
 
