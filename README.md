@@ -2,10 +2,10 @@
 
 ### Currently...
 - Software Developer at Truveta
-- Cycling, running, or taking photographs in my free time
+- Cycling, running, or taking photos in my free time
 
 ### Previously...
-- Software engineering intern at Vulcan on the Allen Coral Atlas team
+- Software engineering intern at Vulcan on the [Allen Coral Atlas](https://allencoralatlas.org/) team
 - Parkinson's disease and cardiovascular disease researcher at the National Institutes of Health
 
 
